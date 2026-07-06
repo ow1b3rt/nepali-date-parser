@@ -134,17 +134,6 @@ parseBS("Ashadh 21, 2082");
 
 ---
 
-## Roadmap
-
-- AD (Gregorian) parsing
-- Natural language parsing
-- Relative dates
-- Time parsing
-- Date ranges
-- Locale customization
-
----
-
 ## Contributing
 
 Issues and pull requests are welcome.
