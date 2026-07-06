@@ -1,6 +1,10 @@
 {
   "name": "nepali-date-parser",
   "version": "1.0.0",
+  "dependencies": {
+    "@zener/nepali-date-converter": "^2.0.0",
+    "dayjs": "^1.11.13"
+  },
   "author" : "ow1b3rt",
   "description": "Nepali Date Parser is a flexible JavaScript library for parsing Nepali dates with convenience. It recognizes numerous Bikram Sambat and Gregorian date formats, supports both Nepali and English numerals, understands Nepali and English month names, and handles mixed separators and partial dates. Whether users type 2082-03-21, २१ असार २०८२, 21 Ashadh 2082, or 2025/07/05, the parser converts them into structured date objects with consistent results.",
   "type": "module",
